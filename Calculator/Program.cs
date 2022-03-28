@@ -14,7 +14,6 @@ namespace Calculator
 
             char resposta;
 
-
             do
             {
                 Console.WriteLine("Escolha a operação desejada: ");
