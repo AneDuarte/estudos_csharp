@@ -48,7 +48,7 @@ namespace Calculator
                         break;
 
                 }
-                Console.WriteLine("O resultado do cálculo é: " + total);
+                Console.WriteLine($"O resultado do cálculo é {total}");
                 Console.WriteLine("Deseja fazer outra operação? Responda com 's' ou 'n': ");
                 resposta = Console.ReadLine()[0];
 
