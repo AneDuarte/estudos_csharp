@@ -1,0 +1,15 @@
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\bin\Debug\net6.0\stopWatch.exe
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\bin\Debug\net6.0\stopWatch.deps.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\bin\Debug\net6.0\stopWatch.runtimeconfig.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\bin\Debug\net6.0\stopWatch.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\bin\Debug\net6.0\ref\stopWatch.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\bin\Debug\net6.0\stopWatch.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.csproj.AssemblyReference.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.AssemblyInfoInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.AssemblyInfo.cs
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\ref\stopWatch.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\StopWatch\obj\Debug\net6.0\stopWatch.genruntimeconfig.cache
