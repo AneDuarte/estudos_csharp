@@ -1,0 +1,15 @@
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.AssemblyInfo.cs
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\bin\Debug\net6.0\Pessoa.exe
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\bin\Debug\net6.0\Pessoa.deps.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\bin\Debug\net6.0\Pessoa.runtimeconfig.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\bin\Debug\net6.0\Pessoa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\bin\Debug\net6.0\ref\Pessoa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\bin\Debug\net6.0\Pessoa.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\ref\Pessoa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Pessoas\obj\Debug\net6.0\Pessoa.genruntimeconfig.cache
