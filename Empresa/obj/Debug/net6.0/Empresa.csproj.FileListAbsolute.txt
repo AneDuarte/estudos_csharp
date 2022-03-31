@@ -1,0 +1,15 @@
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.csproj.AssemblyReference.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfo.cs
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\bin\Debug\net6.0\Empresa.exe
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\bin\Debug\net6.0\Empresa.deps.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\bin\Debug\net6.0\Empresa.runtimeconfig.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\bin\Debug\net6.0\Empresa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\bin\Debug\net6.0\ref\Empresa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\bin\Debug\net6.0\Empresa.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\ref\Empresa.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Empresa\obj\Debug\net6.0\Empresa.genruntimeconfig.cache
