@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Vetores{
+namespace Vetores1{
     class Program{
         static void Main(string[] args){
             Console.WriteLine("Digite a quantidade de pessoas: ");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores\\Vetores.csproj",
-      "projectName": "Vetores",
-      "projectPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores\\Vetores.csproj",
+      "projectUniqueName": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores2\\Vetores2.csproj",
+      "projectName": "Vetores2",
+      "projectPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores2\\Vetores2.csproj",
       "packagesPath": "C:\\Users\\ane_d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores\\obj\\",
+      "outputPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ane_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
