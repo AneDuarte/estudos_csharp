@@ -1,0 +1,15 @@
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\bin\Debug\net6.0\Composicao.exe
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\bin\Debug\net6.0\Composicao.deps.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\bin\Debug\net6.0\Composicao.runtimeconfig.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\bin\Debug\net6.0\Composicao.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\bin\Debug\net6.0\ref\Composicao.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\bin\Debug\net6.0\Composicao.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.csproj.AssemblyReference.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.AssemblyInfo.cs
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\ref\Composicao.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Composicao\obj\Debug\net6.0\Composicao.genruntimeconfig.cache
