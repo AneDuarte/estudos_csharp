@@ -40,7 +40,7 @@ namespace Composicao.Entities
             double soma = SalarioBase;
             foreach (HorasContrato contrato in Contratos)
             {
-                if (contrato.Data.Year == ano && contrato.Data.Month == mes)
+                if (ano == contrato.Data.Year && mes == contrato.Data.Month)
                 {
                     soma += contrato.ValorTotal();
                 }
