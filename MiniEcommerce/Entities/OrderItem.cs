@@ -30,7 +30,7 @@ namespace MiniEcommerce.Entities
         {
             StringBuilder sb = new StringBuilder();
             sb.Append($"{Product}, {Price}, Qauntity: {Quantity}, Subtotal {SubTotal().ToString("F2", CultureInfo.InvariantCulture)}");
-            return base.ToString();
+            return sb.ToString();
         }
     }
 }

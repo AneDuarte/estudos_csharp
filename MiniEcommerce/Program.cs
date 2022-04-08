@@ -54,7 +54,7 @@ namespace MiniEcommerce
 
             Console.WriteLine();
             Console.WriteLine("Order sumary: ");
-            Console.WriteLine(order);
+            Console.WriteLine(order.ToString());
 
         }
     }
