@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = MiniEcommerce
-build_property.ProjectDir = c:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\
+build_property.RootNamespace = BancoHeranca
+build_property.ProjectDir = c:\Users\Ane Duarte\Desktop\estudos_csharp\BancoHeranca\
