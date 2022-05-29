@@ -1,15 +1,15 @@
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.exe
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.deps.json
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.runtimeconfig.json
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\ref\MiniEcommerce.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.pdb
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.csproj.AssemblyReference.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.AssemblyInfoInputs.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.AssemblyInfo.cs
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.csproj.CoreCompileInputs.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\ref\MiniEcommerce.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.pdb
-C:\Users\Ane Duarte\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.exe
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.dll
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\bin\Debug\net6.0\MiniEcommerce.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.dll
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\refint\MiniEcommerce.dll
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\MiniEcommerce.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\MiniEcommerce\obj\Debug\net6.0\ref\MiniEcommerce.dll

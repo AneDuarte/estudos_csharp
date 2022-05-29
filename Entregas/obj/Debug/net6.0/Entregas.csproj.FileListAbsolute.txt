@@ -1,0 +1,15 @@
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\bin\Debug\net6.0\Entregas.exe
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\bin\Debug\net6.0\Entregas.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\bin\Debug\net6.0\Entregas.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\bin\Debug\net6.0\Entregas.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\bin\Debug\net6.0\Entregas.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\refint\Entregas.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\Entregas.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Entregas\obj\Debug\net6.0\ref\Entregas.dll

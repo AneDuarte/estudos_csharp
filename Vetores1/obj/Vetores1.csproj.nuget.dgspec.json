@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores1\\Vetores1.csproj": {}
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Vetores1\\Vetores1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores1\\Vetores1.csproj": {
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Vetores1\\Vetores1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores1\\Vetores1.csproj",
+        "projectUniqueName": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Vetores1\\Vetores1.csproj",
         "projectName": "Vetores1",
-        "projectPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores1\\Vetores1.csproj",
+        "projectPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Vetores1\\Vetores1.csproj",
         "packagesPath": "C:\\Users\\ane_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Vetores1\\obj\\",
+        "outputPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Vetores1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ane_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

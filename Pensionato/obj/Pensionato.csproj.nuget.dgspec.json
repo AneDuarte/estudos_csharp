@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Pensionato\\Pensionato.csproj": {}
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Pensionato\\Pensionato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Pensionato\\Pensionato.csproj": {
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Pensionato\\Pensionato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Pensionato\\Pensionato.csproj",
+        "projectUniqueName": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Pensionato\\Pensionato.csproj",
         "projectName": "Pensionato",
-        "projectPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Pensionato\\Pensionato.csproj",
+        "projectPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Pensionato\\Pensionato.csproj",
         "packagesPath": "C:\\Users\\ane_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Pensionato\\obj\\",
+        "outputPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Pensionato\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ane_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

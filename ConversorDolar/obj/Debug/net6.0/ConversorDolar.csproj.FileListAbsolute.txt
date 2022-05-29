@@ -1,15 +1,15 @@
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.exe
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.deps.json
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.runtimeconfig.json
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ref\ConversorDolar.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.pdb
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.csproj.AssemblyReference.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.AssemblyInfoInputs.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.AssemblyInfo.cs
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.csproj.CoreCompileInputs.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ref\ConversorDolar.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.pdb
-C:\Users\Ane Duarte\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.exe
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.dll
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\bin\Debug\net6.0\ConversorDolar.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.dll
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\refint\ConversorDolar.dll
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ConversorDolar.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\ConversorDolar\obj\Debug\net6.0\ref\ConversorDolar.dll

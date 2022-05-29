@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Matriz\\Matriz.csproj": {}
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Matriz\\Matriz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Matriz\\Matriz.csproj": {
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Matriz\\Matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Matriz\\Matriz.csproj",
+        "projectUniqueName": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Matriz\\Matriz.csproj",
         "projectName": "Matriz",
-        "projectPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Matriz\\Matriz.csproj",
+        "projectPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Matriz\\Matriz.csproj",
         "packagesPath": "C:\\Users\\ane_d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ane_d\\OneDrive\\Área de Trabalho\\estudos_csharp\\Matriz\\obj\\",
+        "outputPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ane_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

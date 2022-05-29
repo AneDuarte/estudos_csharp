@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj": {}
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj": {
+    "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj",
+        "projectUniqueName": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj",
         "projectName": "ConversorDolar",
-        "projectPath": "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj",
-        "packagesPath": "C:\\Users\\Ane Duarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\ConversorDolar\\obj\\",
+        "projectPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\ConversorDolar\\ConversorDolar.csproj",
+        "packagesPath": "C:\\Users\\ane_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\ConversorDolar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ane Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ane_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

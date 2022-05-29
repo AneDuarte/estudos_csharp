@@ -1,0 +1,15 @@
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\bin\Debug\net6.0\BancoHeranca.exe
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\bin\Debug\net6.0\BancoHeranca.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\bin\Debug\net6.0\BancoHeranca.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\bin\Debug\net6.0\BancoHeranca.dll
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\bin\Debug\net6.0\BancoHeranca.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.dll
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\refint\BancoHeranca.dll
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\BancoHeranca.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\BancoHeranca\obj\Debug\net6.0\ref\BancoHeranca.dll

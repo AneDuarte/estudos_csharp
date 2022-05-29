@@ -1,15 +1,15 @@
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.exe
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.deps.json
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\ref\Calculator.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.pdb
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\ref\Calculator.dll
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.pdb
-C:\Users\Ane Duarte\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Calculator\obj\Debug\net6.0\ref\Calculator.dll

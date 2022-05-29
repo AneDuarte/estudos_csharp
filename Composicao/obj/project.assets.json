@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ane Duarte\\.nuget\\packages\\": {}
+    "C:\\Users\\ane_d\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\Composicao\\Composicao.csproj",
+      "projectUniqueName": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Composicao\\Composicao.csproj",
       "projectName": "Composicao",
-      "projectPath": "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\Composicao\\Composicao.csproj",
-      "packagesPath": "C:\\Users\\Ane Duarte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ane Duarte\\Desktop\\estudos_csharp\\Composicao\\obj\\",
+      "projectPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Composicao\\Composicao.csproj",
+      "packagesPath": "C:\\Users\\ane_d\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ane_d\\Desktop\\estudos_csharp\\Composicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ane Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ane_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

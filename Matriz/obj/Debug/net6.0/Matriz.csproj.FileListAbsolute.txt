@@ -1,15 +1,15 @@
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.exe
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.deps.json
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.dll
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.pdb
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.dll
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\refint\Matriz.dll
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.pdb
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
-C:\Users\ane_d\OneDrive\Área de Trabalho\estudos_csharp\Matriz\obj\Debug\net6.0\ref\Matriz.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Matriz\obj\Debug\net6.0\ref\Matriz.dll

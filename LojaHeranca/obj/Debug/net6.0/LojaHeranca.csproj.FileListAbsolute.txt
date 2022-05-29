@@ -1,0 +1,15 @@
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\bin\Debug\net6.0\LojaHeranca.exe
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\bin\Debug\net6.0\LojaHeranca.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\bin\Debug\net6.0\LojaHeranca.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\bin\Debug\net6.0\LojaHeranca.dll
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\bin\Debug\net6.0\LojaHeranca.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.dll
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\refint\LojaHeranca.dll
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\LojaHeranca.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\LojaHeranca\obj\Debug\net6.0\ref\LojaHeranca.dll
