@@ -1,0 +1,15 @@
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\bin\Debug\net6.0\Contribuintes.exe
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\bin\Debug\net6.0\Contribuintes.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\bin\Debug\net6.0\Contribuintes.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\bin\Debug\net6.0\Contribuintes.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\bin\Debug\net6.0\Contribuintes.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\refint\Contribuintes.dll
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\Contribuintes.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\Contribuintes\obj\Debug\net6.0\ref\Contribuintes.dll
