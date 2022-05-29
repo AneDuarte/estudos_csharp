@@ -1,0 +1,15 @@
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.csproj.AssemblyReference.cache
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.AssemblyInfoInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.AssemblyInfo.cs
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.csproj.CoreCompileInputs.cache
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\bin\Debug\net6.0\AreasAbsratas.exe
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\bin\Debug\net6.0\AreasAbsratas.deps.json
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\bin\Debug\net6.0\AreasAbsratas.runtimeconfig.json
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\bin\Debug\net6.0\AreasAbsratas.dll
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\bin\Debug\net6.0\AreasAbsratas.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.dll
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\refint\AreasAbsratas.dll
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.pdb
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\AreasAbsratas.genruntimeconfig.cache
+C:\Users\ane_d\Desktop\estudos_csharp\AreasAbsratas\obj\Debug\net6.0\ref\AreasAbsratas.dll
