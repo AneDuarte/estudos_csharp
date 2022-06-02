@@ -1,0 +1,15 @@
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\bin\Debug\net6.0\Excecoes1.exe
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\bin\Debug\net6.0\Excecoes1.deps.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\bin\Debug\net6.0\Excecoes1.runtimeconfig.json
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\bin\Debug\net6.0\Excecoes1.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\bin\Debug\net6.0\ref\Excecoes1.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\bin\Debug\net6.0\Excecoes1.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.csproj.AssemblyReference.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.AssemblyInfoInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.AssemblyInfo.cs
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.csproj.CoreCompileInputs.cache
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\ref\Excecoes1.dll
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.pdb
+C:\Users\Ane Duarte\Desktop\estudos_csharp\Excecoes1\obj\Debug\net6.0\Excecoes1.genruntimeconfig.cache
